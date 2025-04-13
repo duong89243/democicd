@@ -1,7 +1,7 @@
 public class Calculator {
     // Phép cộng
     public int add(int a, int b) {
-        return 0
+        return a + b;
     }
 
     // Phép trừ
